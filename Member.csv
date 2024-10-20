@@ -1,0 +1,61 @@
+Mem_ID,Mem_Name,Mem_DOB,Mem_PhoneNumber,Mem_Email,Mem_Fees,Mem_Address,Locker_ID,PT_ID,N_ID,EquipmentSet_ID,FD_Emp_ID
+701,"Averil Madonna","2002-07-18 00:00:00",214-193-2961,amadonna10@webeden.com,5000.00,"6673 2nd Lane",51,306,202,903,101
+702,"Merci Smaile","1992-06-14 00:00:00",237-521-8026,msmaile11@google.fr,5500.00,"153 Lerdahl Way",NULL,301,NULL,901,103
+703,"Lexis Canero","1996-10-23 00:00:00",578-568-4892,lcanero12@com.com,10000.00,"2224 Blackbird Plaza",NULL,305,206,902,107
+704,"Carolina Frondt","2000-06-06 00:00:00",690-613-8933,cfrondt13@cargocollective.com,7000.00,"34659 Buhler Pass",54,304,203,903,104
+705,"Matty Kaygill","1987-02-10 00:00:00",608-506-6126,mkaygill14@cornell.edu,4300.00,"70 Sugar Drive",55,NULL,204,905,103
+706,"Marinna Errigo","2002-05-25 00:00:00",888-369-4487,merrigo15@plala.or.jp,11000.00,"2 Tennyson Street",56,304,205,904,102
+707,"Morey Lillecrop","1985-01-16 00:00:00",809-628-5336,mlillecrop16@answers.com,8500.00,"4349 Sauthoff Trail",57,302,NULL,903,105
+708,"Thane Droghan","2001-05-15 00:00:00",262-217-0406,tdroghan17@tiny.cc,7500.00,"82 Cordelia Drive",58,NULL,201,901,107
+709,"Betti Quesne","2000-10-06 00:00:00",653-724-1318,bquesne18@rediff.com,6535.00,"3 Sunnyside Way",59,NULL,202,902,106
+710,"Quinn Andrasch","1991-12-11 00:00:00",381-691-1916,qandrasch19@seesaa.net,10050.75,"19613 Kedzie Circle",NULL,303,201,902,105
+711,"Fionnula Villaret","1995-11-23 00:00:00",851-133-9439,fvillareta@sogou.com,15182.74,"4021 Arizona Avenue",21,309,201,901,107
+712,"Johannah Connold","1968-04-24 00:00:00",868-462-1349,jconnoldb@twitpic.com,13522.78,"2265 Darwin Road",22,315,204,905,104
+713,"Erena McCurrie","1973-09-27 00:00:00",335-558-3188,emccurriec@gov.uk,18244.46,"843 Towne Point",23,312,201,904,106
+714,"Clifford Troctor","1982-11-26 00:00:00",448-403-7140,ctroctord@intel.com,19432.58,"55 Heath Trail",NULL,306,209,901,103
+715,"Malvina Ahren","1980-03-27 00:00:00",318-306-0425,mahrene@wufoo.com,9913.26,"058 Esker Circle",25,311,211,902,105
+716,"Inger Hulburt","1969-08-01 00:00:00",327-216-5759,ihulburtf@nytimes.com,4674.85,"253 Michigan Place",26,301,202,905,110
+717,"Jareb Rummer","1998-11-07 00:00:00",116-150-6836,jrummerg@sitemeter.com,12664.09,"8019 Division Street",27,314,206,901,107
+718,"Annie Blacksell","1970-02-25 00:00:00",121-435-9649,ablacksellh@wikia.com,4936.52,"60 Fairview Parkway",NULL,308,212,904,107
+719,"Dorthy Gilchriest","1997-09-05 00:00:00",587-835-6824,dgilchriesti@storify.com,11897.42,"6 Melrose Road",29,306,201,901,106
+720,"Mollie Sealey","1999-08-30 00:00:00",764-802-3078,msealeyj@weebly.com,16105.4,"26 Randy Trail",30,313,205,905,105
+721,"Petey Pottle","1969-07-03 00:00:00",356-123-0944,ppottlek@about.com,13139.3,"10 Weeping Birch Terrace",31,301,203,904,109
+722,"Timmy Sellick","1984-05-26 00:00:00",863-511-0940,tsellickl@clickbank.net,15990.42,"5562 Gateway Court",32,304,214,902,103
+723,"Carey Dangerfield","1967-08-15 00:00:00",893-694-2594,cdangerfieldm@theguardian.com,8566.71,"460 8th Junction",33,307,207,902,108
+724,"Jammie Celli","1978-05-09 00:00:00",601-361-0776,jcellin@is.gd,14586.12,"7 Crest Line Hill",NULL,311,213,903,110
+725,"Loleta Barthelmes","1991-11-24 00:00:00",300-901-3070,lbarthelmeso@umich.edu,7953.88,"276 Sycamore Parkway",NULL,302,206,903,108
+726,"Brynna Mulheron","1971-02-16 00:00:00",320-741-8266,bmulheronp@wordpress.com,13755.73,"9 La Follette Parkway",36,302,210,905,109
+727,"Anica Biesterfeld","1980-11-07 00:00:00",848-833-5352,abiesterfeldq@house.gov,19337.5,"53 Dwight Plaza",37,302,211,901,108
+728,"Daphna Bollom","1977-05-05 00:00:00",360-118-1082,dbollomr@tamu.edu,4245.02,"144 Meadow Ridge Crossing",38,310,213,902,108
+729,"Waite Frost","1984-06-17 00:00:00",619-287-1488,wfrosts@tripadvisor.com,7795.68,"42562 Hooker Place",39,307,207,901,106
+730,"Micheal Unwins","1995-08-15 00:00:00",460-858-1290,munwinst@china.com.cn,15701.79,"39 Clemons Alley",NULL,311,204,905,108
+731,"Christie Christou","1979-05-04 00:00:00",512-828-6989,cchristouu@ask.com,13704.4,"08393 Badeau Road",41,308,205,902,108
+732,"Alberik Joseff","1980-12-27 00:00:00",172-894-9880,ajoseffv@slashdot.org,12051.09,"15 Dovetail Circle",NULL,314,204,905,101
+733,"Terencio Collinwood","1991-07-20 00:00:00",595-968-8426,tcollinwoodw@netscape.com,10241.65,"51 Anniversary Avenue",43,309,204,902,104
+734,"Templeton Nettles","1983-02-15 00:00:00",863-570-3209,tnettlesx@google.co.jp,19992.94,"31 Valley Edge Hill",44,304,207,902,110
+735,"Doro Rothert","1968-09-21 00:00:00",902-940-8307,drotherty@buzzfeed.com,9792.78,"16 Stang Point",45,310,213,902,109
+736,"Selene Yitzhakov","1981-04-10 00:00:00",436-466-5502,syitzhakovz@boston.com,14321.07,"193 Charing Cross Court",46,305,201,901,109
+737,"Neely Tuson","1997-08-09 00:00:00",586-385-6952,ntuson10@apple.com,8148.55,"981 Crownhardt Park",47,313,212,902,108
+738,"Neala Schoffel","1987-04-20 00:00:00",137-431-7356,nschoffel11@newsvine.com,4079.08,"4987 Morrow Street",NULL,303,211,905,102
+739,"Vivyan Attwell","1991-07-05 00:00:00",927-575-6777,vattwell12@nbcnews.com,19418.86,"923 Birchwood Center",NULL,315,201,901,106
+740,"Shalne Cowill","1986-04-07 00:00:00",199-689-4445,scowill13@etsy.com,10334.79,"66 Scoville Point",50,307,205,901,103
+741,"Curtice Leverage","1975-02-13 00:00:00",130-457-8462,cleverage14@washington.edu,9591.11,"67 Dunning Pass",48,306,211,902,109
+742,"L;urette Johnsson","1972-03-28 00:00:00",755-110-3527,ljohnsson15@cyberchimps.com,17821.26,"7 Pierstorff Avenue",52,307,210,904,105
+743,"Kassandra Gounet","1990-01-17 00:00:00",998-824-2419,kgounet16@mail.ru,4928.11,"239 Maple Point",NULL,314,208,901,104
+744,"Tyrone Mattei","1999-02-04 00:00:00",305-444-5709,tmattei17@flickr.com,5205.41,"6 Shelley Junction",49,302,214,901,102
+745,"Doyle Tortoishell","1979-12-26 00:00:00",170-322-2048,dtortoishell18@youtube.com,7847.15,"13535 Dexter Lane",NULL,313,213,902,105
+746,"Lovell Tappington","1971-06-08 00:00:00",352-365-2354,ltappington19@tiny.cc,16534.82,"1820 Texas Terrace",53,303,208,904,106
+747,"Burlie Painter","1985-10-15 00:00:00",612-875-9807,bpainter1a@typepad.com,12632.67,"93 Pearson Point",64,303,212,902,108
+748,"Livvy Mowsdill","1984-07-12 00:00:00",737-792-1577,lmowsdill1b@seattletimes.com,12944.54,"16 Eagle Crest Way",60,313,210,904,106
+749,"Padriac Syred","1976-03-04 00:00:00",506-335-2706,psyred1c@163.com,18587.12,"10 Oneill Junction",65,315,209,904,106
+750,"Haze Sebert","1974-02-11 00:00:00",846-735-8360,hsebert1d@java.com,13673.55,"05 Novick Terrace",NULL,312,206,904,107
+751,"May Aland","1985-03-29 00:00:00",818-607-1818,maland1e@unicef.org,17075.48,"08648 Pine View Park",61,307,211,901,109
+752,"Warner Woolward","1991-07-21 00:00:00",783-885-7459,wwoolward1f@google.com.hk,7742.65,"003 Forster Parkway",62,309,211,903,106
+753,"Adolphus Bewley","1987-01-09 00:00:00",847-465-0498,abewley1g@who.int,12886.2,"6436 Fairview Court",63,313,203,901,106
+754,"Angelia Gibby","1984-11-28 00:00:00",629-287-4016,agibby1h@deliciousdays.com,10233.88,"7212 Westport Plaza",NULL,307,207,905,107
+755,"Norbert Fone","1999-04-17 00:00:00",678-451-4780,nfone1i@hud.gov,8978.43,"57266 East Point",NULL,309,213,905,110
+756,"Pietrek McGauhy","1989-01-13 00:00:00",378-762-2258,pmcgauhy1j@apple.com,4119.65,"5 Ruskin Lane",66,303,215,901,109
+757,"Grady Kinvan","1983-04-16 00:00:00",478-880-7642,gkinvan1k@mayoclinic.com,4441.16,"7 Kipling Lane",67,310,203,901,102
+758,"Keith Hencke","1985-06-09 00:00:00",383-627-6117,khencke1l@e-recht24.de,9084.99,"713 Arrowood Pass",NULL,313,206,905,109
+759,"Jaymee Garshore","1981-09-09 00:00:00",496-881-5643,jgarshore1m@photobucket.com,19769.5,"6225 Stephen Alley",69,305,211,901,102
+760,"Buckie Broggio","1972-01-19 00:00:00",244-948-1657,bbroggio1n@sogou.com,5466.66,"0 Walton Hill",70,310,208,905,104
